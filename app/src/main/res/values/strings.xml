@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JeuDevinette</string>
+    <string name="txtTitre">Devine le nombre</string>
+    <string name="txtTexte">Saisir une valeur entre 1 et 100:</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtComparer">Comparer</string>
+    <string name="txtPlayer1">Joueur 1</string>
+    <string name="txtPlayer2">Joueur 2</string>
+    <string name="txtJouer">Jouer!</string>
+    <string name="txtNom">Nom</string>
+    <string name="txtRetour">Retour</string>
+    <string name="txtRejouer">Rejouer!</string>
+</resources>
